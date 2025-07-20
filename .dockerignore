@@ -1,0 +1,5 @@
+certs/*.key
+*.env
+*.key
+.git
+.vscode
